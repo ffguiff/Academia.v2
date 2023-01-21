@@ -27,6 +27,29 @@ document.getElementById("imgX").style.visibility = "hidden";
 //
 document.getElementById("um").style.visibility = "hidden";
 document.getElementById("dois").style.visibility = "hidden";
+document.getElementById("cinco").style.visibility = "hidden";
+document.getElementById("vinteeSeis").style.visibility = "hidden";
+document.getElementById("vinteeSete").style.visibility = "hidden";
+document.getElementById("vinteeQuatro").style.visibility = "hidden";
+document.getElementById("quarentaeCinco").style.visibility = "hidden";
+document.getElementById("quarentaeNove").style.visibility = "hidden";
+document.getElementById("cinquenta").style.visibility = "hidden";
+document.getElementById("quarentaeSete").style.visibility = "hidden";
+document.getElementById("quarentaeSeteEmPe").style.visibility = "hidden";
+document.getElementById("quarentaeUm").style.visibility = "hidden";
+document.getElementById("oito").style.visibility = "hidden";
+document.getElementById("nove").style.visibility = "hidden";
+document.getElementById("onze").style.visibility = "hidden";
+document.getElementById("trintaeDois").style.visibility = "hidden";
+document.getElementById("trinta").style.visibility = "hidden";
+document.getElementById("trintaeCinco").style.visibility = "hidden";
+document.getElementById("dezoito").style.visibility = "hidden";
+document.getElementById("vinte").style.visibility = "hidden";
+document.getElementById("vinteeDois").style.visibility = "hidden";
+document.getElementById("dezenove").style.visibility = "hidden";
+document.getElementById("dezessete").style.visibility = "hidden";
+document.getElementById("dezesseis").style.visibility = "hidden";
+document.getElementById("abdominal").style.visibility = "hidden";
 //
 function voltar(){
     document.getElementById("fundo").style.visibility = "hidden";
